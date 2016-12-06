@@ -6,7 +6,7 @@ and filterwheel control on the emission from within the plugin.  These are suppo
 in the multiview acquisition tab and via a new DAC slider control for setting AOTF
 transmission and filterwheel position.
 
-# Orginal README
+# Original README
 
 The [OpenSPIM](http://openspim.org/) project is a collaboration between multiple
 labs to establish an accessible, easily adjustable light sheet microscope
