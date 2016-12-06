@@ -6,6 +6,12 @@ and filterwheel control on the emission from within the plugin.  These are suppo
 in the multiview acquisition tab and via a new DAC slider control for setting AOTF
 transmission and filterwheel position.
 
+This repo was orginally forked in 2015 with the intention of pulling it back to
+the master but in the time I forked it and made my changes, significant changes
+were made to the master making it difficult to merge.  Thus, for now, this is record
+of the changes that could be implemented in the current OpenSPIM plugin to 
+support an AOTF and FW from within the plugin.  
+
 # Original README
 
 The [OpenSPIM](http://openspim.org/) project is a collaboration between multiple
