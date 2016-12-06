@@ -1,3 +1,13 @@
+12/6/16. Additions by Indiana University, Indiana Center for Biological Microscopy
+Seth Winfree completed 2015.
+
+This repo contains the IU-OpenSPIM additions made to support NEOS AOTF control 
+and filterwheel control on the emission from within the plugin.  These are supported
+in the multiview acquisition tab and via a new DAC slider control for setting AOTF
+transmission and filterwheel position.
+
+
+
 The [OpenSPIM](http://openspim.org/) project is a collaboration between multiple
 labs to establish an accessible, easily adjustable light sheet microscope
 system.
